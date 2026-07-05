@@ -50,21 +50,6 @@ This project introduces an AI-powered Decision Support System that analyzes hist
 - SQLite / MySQL
 
 ---
-## 📂 Project Structure
-
-AI-Based-Government-Decision-Support-System/
-│
-├── dataset/
-├── modules/
-├── static/
-├── templates/
-├── screenshots/
-├── app.py
-├── requirements.txt
-├── README.md
-└── LICENSE
-
----
 
 ## ⚙️ Installation
 
